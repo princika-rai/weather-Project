@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 225, 255);
+    font-family: 'Merriweather', serif;
+   
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    
+    margin-bottom:30px;
+    padding-top: 0rem;
+    line-height: 1.5;
+}
+hr{
+    width: 4%;
+    margin: 100px auto 100px auto;
+    color: black;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+
+    
+}
+
+
+.form{
+    margin-top: 80px;
+    margin-left: 470px;
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+}
